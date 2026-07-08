@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am a second-year B.Tech Information Technology student at Cummins College of Engineering for Women.
+I am a third-year B.Tech Information Technology student at Cummins College of Engineering for Women.
 
 I enjoy building products that solve practical problems and combine technology with real-world impact. My interests span Machine Learning, Full Stack Development, UI-driven applications, and systems that create meaningful user experiences.
 
